@@ -11,7 +11,7 @@ $.fn.stride = function (options) {
                 lastScrollTop: 0,
                 x: $(this).data('stride-x') || 50,
                 y: $(this).data('stride-y') || 50,
-                a: $(this).data('stride-acceleration') || 50
+                acceleration: $(this).data('stride-acceleration') || 50
             },
 
             init: function (options) {

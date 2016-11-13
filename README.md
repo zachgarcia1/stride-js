@@ -7,9 +7,9 @@ This module is currently in testing and should not be used in production
 ## Up and Running
 ```javascript
 $('[data-stride]').stride({
-    backgroundX: 50,
-    backgroundY: 50,
-    backgroundAcceleration:-20
+    x: 50,
+    y: 50,
+    acceleration:-20
 });
 ```
 
