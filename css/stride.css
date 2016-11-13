@@ -1,0 +1,4 @@
+html, body {margin:0;padding:0;height:500vh;}
+
+.background-75 {height:75vh;background-size:cover;background-repeat:no-repeat;background-position:50% 63%;}
+.spacer        {height:50vh;}

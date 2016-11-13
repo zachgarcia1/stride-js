@@ -1,0 +1,8 @@
+# system files
+.DS_Store
+thumbs.db
+__MACOSX
+._*
+
+# PHPStorm project files
+/.idea/
